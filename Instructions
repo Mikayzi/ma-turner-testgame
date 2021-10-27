@@ -18,3 +18,5 @@ Use the Console.Clear() method to wipe the screen
 Idea 1: A game like Battleship (9x9 grid) where you dodge randomly ai placed blocks (new block placed every clear) as you get from bottom side of the grid to the top.
 
 Idea 2: A game where ai randomly hides a symbol (X,$,%) in a 9x9 grid and player has to find it. Counts the turns. Treasure hunt? Hidden symbol hunt.
+
+
