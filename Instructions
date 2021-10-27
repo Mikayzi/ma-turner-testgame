@@ -8,3 +8,13 @@ You should handle bad input by asking for input again.
 The AI should do more than make random moves (but it doesn't have to be that smart)
 You must create a class to store the game memory and methods. All Main() should do is allocate an instance of that class and call the Update method.
 Use the Console.Clear() method to wipe the screen
+
+
+//
+//
+//
+
+
+Idea 1: A game like battleship (9x9 grid) where you dodge randomly ai placed blocks (new block placed every clear) as you get from bottom side of the grid to the top.
+
+Idea 2: A game where ai randomly hides a symbol in a 9x9 grid and player has to find it. Counts the turns.
