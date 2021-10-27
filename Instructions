@@ -1,0 +1,10 @@
+In this assignment we'll be making a simple grid-based board game, think tic-tac-toe, connect4, or checkers. Do not simply copy one of these games, instead you'll be desinging your own. Keep things very simple tho!
+The basic game will work like this: render the board based on the state, get input, update the state, have the comptuer make a move, update the state, then repeat.
+You should use an array of ints to represent the spots on your board. For an example in a tic-tac-toe game you would have an array of 9 integers going top left to bottom right. If an element in the array is 0 that means it's empty, if it's a 1 that could be X, if it's 2 that could be an O.
+Have a clear win and lose condition
+When the game is over the player should be able to play again.
+Allow the player to press the H key to bring up the rules of the game.
+You should handle bad input by asking for input again.
+The AI should do more than make random moves (but it doesn't have to be that smart)
+You must create a class to store the game memory and methods. All Main() should do is allocate an instance of that class and call the Update method.
+Use the Console.Clear() method to wipe the screen
